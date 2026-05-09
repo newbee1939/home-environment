@@ -1,0 +1,2 @@
+- Windows PC活用
+- Home Assistant導入
