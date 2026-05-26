@@ -1,3 +1,5 @@
 - Raspberry Pi
     - Kubernetes
 - 自宅サーバー
+- 電気ガスの料金を減らしたい
+    - 自家発電
