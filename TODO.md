@@ -1,5 +1,8 @@
-- Raspberry Pi
-    - Kubernetes
 - 自宅サーバー
+    - Raspberry Pi
+        - Kubernetes
+        - おうちKubernetes
 - 電気ガスの料金を減らしたい
     - 自家発電
+- Team Tracker
+- iCloudに金を払わないでいいように自前で管理したい
